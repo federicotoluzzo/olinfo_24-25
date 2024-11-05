@@ -12,7 +12,7 @@ int main() {
     // se preferisci leggere e scrivere da file
     // ti basta decommentare le seguenti due righe:
 
-    freopen("input.txt", "r", stdin);
+    //freopen("download_input_1.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 
     int T, t;
